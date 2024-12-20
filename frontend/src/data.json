@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Çam Balı",
+    "price": {
+      "oldPrice": 500.0,
+      "newPrice": 410.0
+    },
+
+    "location": "İstanbul",
+    "weight_stock": "1 kg - Stokta var",
+    "discount": 18,
+    "img": {
+      "singleImage": "img/products/product1/1.png",
+      "thumbs": [
+        "img/products/product1/1.png",
+        "img/products/product1/2.png",
+        "img/products/product1/3.png",
+        "img/products/product1/2.png"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Köy Yumurtası",
+    "price": {
+      "oldPrice": 160.0,
+      "newPrice": 144.0
+    },
+    "location": "İstanbul",
+    "weight_stock": "1 kg - Stokta var",
+    "discount": 10,
+    "img": {
+      "singleImage": "img/products/product2/1.png",
+      "thumbs": [
+        "img/products/product2/1.png",
+        "img/products/product2/2.png",
+        "img/products/product2/3.png"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Kiraz",
+    "price": {
+      "oldPrice": 300.0,
+      "newPrice": 174.0
+    },
+    "location": "İstanbul",
+    "weight_stock": "1 kg - Stokta var",
+    "discount": 42,
+    "img": {
+      "singleImage": "img/products/product3/1.png",
+      "thumbs": [
+        "img/products/product3/1.png",
+        "img/products/product3/2.png",
+        "img/products/product3/3.png"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Domates Salçası",
+    "price": {
+      "oldPrice": 150.0,
+      "newPrice": 112.5
+    },
+    "location": "İstanbul",
+    "weight_stock": "1 kg - Stokta var",
+    "discount": 25,
+    "img": {
+      "singleImage": "img/products/product4/1.png",
+      "thumbs": [
+        "img/products/product4/1.png",
+        "img/products/product4/2.png",
+        "img/products/product4/3.png"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Turşu",
+    "price": {
+      "oldPrice": 500.0,
+      "newPrice": 460.0
+    },
+    "location": "İstanbul",
+    "weight_stock": "1 kg - Stokta var",
+    "discount": 8,
+    "img": {
+      "singleImage": "img/products/product5/1.png",
+      "thumbs": [
+        "img/products/product5/1.png",
+        "img/products/product5/2.png",
+        "img/products/product5/3.png"
+      ]
+    }
+  }
+]
