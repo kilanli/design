@@ -5,7 +5,7 @@ const app = express();
 const cors = require("cors");
 const logger = require("morgan");
 const mainRoute = require("./routes/index.js");
-const port = 5000;
+const port = process.env.PORT || 5000;
 
 dotenv.config();
 
